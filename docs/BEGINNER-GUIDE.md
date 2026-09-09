@@ -8,7 +8,7 @@
 
 ```text
 请安装这个 GitHub Skill：
-https://github.com/PanSi0909/idea-to-storyboard/tree/main/skill/idea-to-storyboard
+https://github.com/PanSi0909/idea-to-storyboard/tree/main/skills/idea-to-storyboard
 ```
 
 看到安装完成提示后，新开一个对话。若 Skill 没有出现，重启 Codex。

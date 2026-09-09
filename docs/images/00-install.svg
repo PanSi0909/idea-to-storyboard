@@ -11,8 +11,8 @@
   <line x1="112" y1="286" x2="1085" y2="286" stroke="#d8e1ec"/>
   <circle cx="119" cy="345" r="24" fill="#168779"/><text x="112" y="354" fill="#fff" font-size="23" font-family="sans-serif">2</text>
   <text x="164" y="337" fill="#14243b" font-size="25" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">请安装这个 GitHub Skill：</text>
-  <text x="164" y="379" fill="#425c7b" font-size="22" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">github.com/PanSi0909/idea-to-storyboard/tree/main/</text>
-  <text x="164" y="414" fill="#425c7b" font-size="22" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">skill/idea-to-storyboard</text>
+  <text x="164" y="379" fill="#425c7b" font-size="22" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">github.com/PanSi0909/idea-to-storyboard/</text>
+  <text x="164" y="414" fill="#425c7b" font-size="22" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">tree/main/skills/idea-to-storyboard</text>
   <line x1="112" y1="448" x2="1085" y2="448" stroke="#d8e1ec"/>
   <circle cx="119" cy="473" r="24" fill="#168779"/><text x="112" y="482" fill="#fff" font-size="23" font-family="sans-serif">3</text>
   <text x="164" y="482" fill="#14243b" font-size="25" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">看到安装完成提示后，新开对话或重启 Codex</text>

@@ -1,0 +1,51 @@
+name: 输出质量案例
+description: 提交可复现的故事卡、七拍或分镜输出问题
+title: "[Output] "
+labels: [output-quality]
+body:
+  - type: markdown
+    attributes:
+      value: 只提交你有权分享的内容，并先完成脱敏。
+  - type: dropdown
+    id: stage
+    attributes:
+      label: 出现问题的阶段
+      options:
+        - 苏格拉底追问
+        - 8句话故事／故事设计卡
+        - 逻辑核查
+        - 150秒七拍
+        - 角色与场景一致性
+        - 分镜表／最终验收
+    validations:
+      required: true
+  - type: textarea
+    id: input
+    attributes:
+      label: 脱敏后的输入
+    validations:
+      required: true
+  - type: textarea
+    id: locked
+    attributes:
+      label: 不可改动的故事核心
+      description: 如适用，请列出内在问题、错误办法、关键选择、英雄镜头和结尾余味。
+  - type: textarea
+    id: actual
+    attributes:
+      label: 实际输出或关键片段
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期望行为
+    validations:
+      required: true
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: 内容确认
+      options:
+        - label: 我有权分享以上内容，并已删除敏感信息。
+          required: true

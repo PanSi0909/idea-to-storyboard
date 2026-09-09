@@ -1,0 +1,32 @@
+name: 功能建议
+description: 建议新的输入方式、工作流能力或交付格式
+title: "[Feature] "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: scenario
+    attributes:
+      label: 使用场景
+      description: 你在创作什么，在哪一步遇到了障碍？
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: 当前做法
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: 希望得到的结果
+      description: 描述结果即可，不必先设计实现方案。
+    validations:
+      required: true
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: 范围确认
+      options:
+        - label: 这个建议仍以2—3分钟短片的故事设计和文字分镜为核心。
+          required: true
