@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
   <title id="title">六步工作流</title><desc id="desc">从苏格拉底追问到验收分镜的六步流程。</desc>
   <rect width="1200" height="630" rx="32" fill="#f3f6fb"/>
-  <text x="64" y="82" fill="#176b61" font-size="24" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">图片教程 2 / 4</text>
+  <text x="64" y="82" fill="#176b61" font-size="24" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">图片教程 4 / 6</text>
   <text x="64" y="140" fill="#13233a" font-size="44" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">一键推进，但保留确认点</text>
   <g font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">
     <g transform="translate(64 200)"><rect width="330" height="118" rx="20" fill="#fff" stroke="#b9c6d8"/><circle cx="47" cy="45" r="24" fill="#1f8a7a"/><text x="40" y="53" fill="#fff" font-size="22">1</text><text x="88" y="48" fill="#152238" font-size="27" font-weight="700">苏格拉底追问</text><text x="88" y="84" fill="#5b6d85" font-size="21">只问高影响缺口</text></g>

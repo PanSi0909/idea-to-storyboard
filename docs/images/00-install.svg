@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">使用 Skill Installer 安装</title>
+  <desc id="desc">在 Codex 中调用 Skill Installer，并粘贴 GitHub Skill 子目录链接。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#13233a"/><stop offset="1" stop-color="#244f68"/></linearGradient></defs>
+  <rect width="1200" height="630" rx="32" fill="url(#bg)"/>
+  <text x="70" y="78" fill="#78dfce" font-size="24" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">图片教程 1 / 6</text>
+  <text x="70" y="138" fill="#fff" font-size="44" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">30秒安装：让 Codex 帮你装</text>
+  <rect x="70" y="188" width="1060" height="310" rx="24" fill="#f8fafc"/>
+  <circle cx="119" cy="240" r="24" fill="#168779"/><text x="112" y="249" fill="#fff" font-size="23" font-family="sans-serif">1</text>
+  <text x="164" y="249" fill="#14243b" font-size="29" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">$skill-installer</text>
+  <line x1="112" y1="286" x2="1085" y2="286" stroke="#d8e1ec"/>
+  <circle cx="119" cy="345" r="24" fill="#168779"/><text x="112" y="354" fill="#fff" font-size="23" font-family="sans-serif">2</text>
+  <text x="164" y="337" fill="#14243b" font-size="25" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">请安装这个 GitHub Skill：</text>
+  <text x="164" y="379" fill="#425c7b" font-size="22" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">github.com/PanSi0909/idea-to-storyboard/tree/main/</text>
+  <text x="164" y="414" fill="#425c7b" font-size="22" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">skill/idea-to-storyboard</text>
+  <line x1="112" y1="448" x2="1085" y2="448" stroke="#d8e1ec"/>
+  <circle cx="119" cy="473" r="24" fill="#168779"/><text x="112" y="482" fill="#fff" font-size="23" font-family="sans-serif">3</text>
+  <text x="164" y="482" fill="#14243b" font-size="25" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">看到安装完成提示后，新开对话或重启 Codex</text>
+  <text x="70" y="568" fill="#d5e5f1" font-size="25" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">不需要 GitHub CLI、Python 或视频剪辑软件</text>
+</svg>

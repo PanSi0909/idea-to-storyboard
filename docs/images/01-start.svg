@@ -3,7 +3,7 @@
   <desc id="desc">输入 Skill 名称和一句故事想法即可开始。</desc>
   <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10192d"/><stop offset="1" stop-color="#243f66"/></linearGradient></defs>
   <rect width="1200" height="630" rx="32" fill="url(#bg)"/>
-  <text x="72" y="92" fill="#80e1d1" font-size="24" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">图片教程 1 / 4</text>
+  <text x="72" y="92" fill="#80e1d1" font-size="24" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">图片教程 3 / 6</text>
   <text x="72" y="150" fill="#fff" font-size="46" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">从一句想法开始</text>
   <rect x="72" y="205" width="1056" height="250" rx="24" fill="#f8fafc"/>
   <circle cx="116" cy="250" r="16" fill="#ff5c5c"/><circle cx="160" cy="250" r="16" fill="#f5c451"/><circle cx="204" cy="250" r="16" fill="#62d08d"/>
