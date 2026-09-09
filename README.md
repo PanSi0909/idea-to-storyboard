@@ -209,8 +209,10 @@ idea-to-storyboard/
 
 ## 致谢
 
-感谢[抖音AI夜校][school]、[WaytoAGI][waytoagi]和[周鹏@鲤鱼与鱼ai][zhoupeng]对AI创作学习与方法分享的启发。飞书／Lark 链接可能要求登录；完整说明见 [ACKNOWLEDGEMENTS.md](ACKNOWLEDGEMENTS.md)。
+感谢[抖音AI夜校][school]、[WaytoAGI][waytoagi]和[周鹏@鲤鱼与鱼ai][zhoupeng]对AI创作学习与方法分享的启发。
 
-[school]: https://bytedance.larkoffice.com/wiki/YOEvwXEBriAPESkNcB4cSKxJn2c
+飞书／Lark 链接可能要求登录；完整说明见 [ACKNOWLEDGEMENTS.md](ACKNOWLEDGEMENTS.md)。
+
+[school]: https://bytedance.larkoffice.com/wiki/YOE3wXEBriAPESkNcB4cSKxJn2c
 [waytoagi]: https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e
-[zhoupeng]: https://www.douyin.com/user/MS4wLjABAAAA1CJfIjxKoMQamgNXVNW2ClMpakvaOiQUr96efCkopByljd1IPZhX6VNKCBVEvbR3
+[zhoupeng]: https://www.douyin.com/user/MS4wLjABAAAAZ5yA9sauF9ETKPvy1mdv4GgSN1ECOzdZeH2i8hKgVyk?from_tab_name=main
