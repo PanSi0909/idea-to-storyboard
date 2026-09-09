@@ -37,7 +37,7 @@ $idea-to-storyboard 把这个想法做成150秒短片分镜：20年后，人类�
 
 ![第四步：检查分镜并按授权同步](docs/images/04-output.svg)
 
-完整案例见 [《那只歪船》](examples/the-crooked-boat.md)。该案例由用户授权的飞书文档导出并整理为 Markdown。
+完整案例见 [《那只歪船》](examples/the-crooked-boat.md)。该案例由本人的飞书文档导出并整理为 Markdown。
 
 ## 仓库结构
 
