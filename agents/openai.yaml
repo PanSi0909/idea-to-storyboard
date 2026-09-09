@@ -1,0 +1,4 @@
+interface:
+  display_name: "一键式短片分镜"
+  short_description: "从故事想法到150秒七拍与可执行分镜的一键式创作流程"
+  default_prompt: "使用 $idea-to-storyboard 将我的短片想法整理为故事卡、150秒七拍和可执行分镜表。"

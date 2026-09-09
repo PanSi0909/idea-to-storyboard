@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">核心五项锁定</title><desc id="desc">内在问题、错误办法、关键选择、英雄镜头和结尾余味在确认后不得擅自修改。</desc>
+  <rect width="1200" height="630" rx="32" fill="#15182a"/>
+  <text x="64" y="82" fill="#ffd166" font-size="24" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">图片教程 3 / 4</text>
+  <text x="64" y="142" fill="#fff" font-size="44" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">确认后，锁定故事核心</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="27" font-weight="700">
+    <rect x="64" y="202" width="330" height="105" rx="20" fill="#252d47"/><text x="105" y="266" fill="#fff">① 内在问题</text>
+    <rect x="435" y="202" width="330" height="105" rx="20" fill="#252d47"/><text x="476" y="266" fill="#fff">② 错误办法</text>
+    <rect x="806" y="202" width="330" height="105" rx="20" fill="#252d47"/><text x="847" y="266" fill="#fff">③ 关键选择</text>
+    <rect x="250" y="347" width="330" height="105" rx="20" fill="#252d47"/><text x="291" y="411" fill="#fff">④ 英雄镜头</text>
+    <rect x="621" y="347" width="330" height="105" rx="20" fill="#252d47"/><text x="662" y="411" fill="#fff">⑤ 结尾余味</text>
+  </g>
+  <rect x="64" y="502" width="1072" height="70" rx="18" fill="#ffd166"/>
+  <text x="109" y="548" fill="#342600" font-size="27" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">发现冲突：先指出问题；涉及核心五项：先征得确认。</text>
+</svg>
+

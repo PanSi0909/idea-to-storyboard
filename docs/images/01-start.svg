@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">调用一键式短片分镜</title>
+  <desc id="desc">输入 Skill 名称和一句故事想法即可开始。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10192d"/><stop offset="1" stop-color="#243f66"/></linearGradient></defs>
+  <rect width="1200" height="630" rx="32" fill="url(#bg)"/>
+  <text x="72" y="92" fill="#80e1d1" font-size="24" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">图片教程 1 / 4</text>
+  <text x="72" y="150" fill="#fff" font-size="46" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">从一句想法开始</text>
+  <rect x="72" y="205" width="1056" height="250" rx="24" fill="#f8fafc"/>
+  <circle cx="116" cy="250" r="16" fill="#ff5c5c"/><circle cx="160" cy="250" r="16" fill="#f5c451"/><circle cx="204" cy="250" r="16" fill="#62d08d"/>
+  <text x="118" y="334" fill="#152238" font-size="31" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">$idea-to-storyboard</text>
+  <text x="118" y="386" fill="#39516f" font-size="28" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">把这个想法做成 150 秒短片分镜：</text>
+  <text x="118" y="427" fill="#39516f" font-size="28" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">20年后，人类把情感关系交给 AI 代理。</text>
+  <text x="72" y="525" fill="#fff" font-size="30" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">也可粘贴故事卡、剧本、已有分镜或飞书链接</text>
+  <text x="72" y="573" fill="#b8c8de" font-size="23" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">信息足够时连续完成；只追问真正改变故事方向的缺口。</text>
+</svg>
+

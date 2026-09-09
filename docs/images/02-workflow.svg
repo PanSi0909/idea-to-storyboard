@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">六步工作流</title><desc id="desc">从苏格拉底追问到验收分镜的六步流程。</desc>
+  <rect width="1200" height="630" rx="32" fill="#f3f6fb"/>
+  <text x="64" y="82" fill="#176b61" font-size="24" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">图片教程 2 / 4</text>
+  <text x="64" y="140" fill="#13233a" font-size="44" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">一键推进，但保留确认点</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">
+    <g transform="translate(64 200)"><rect width="330" height="118" rx="20" fill="#fff" stroke="#b9c6d8"/><circle cx="47" cy="45" r="24" fill="#1f8a7a"/><text x="40" y="53" fill="#fff" font-size="22">1</text><text x="88" y="48" fill="#152238" font-size="27" font-weight="700">苏格拉底追问</text><text x="88" y="84" fill="#5b6d85" font-size="21">只问高影响缺口</text></g>
+    <g transform="translate(435 200)"><rect width="330" height="118" rx="20" fill="#fff" stroke="#b9c6d8"/><circle cx="47" cy="45" r="24" fill="#1f8a7a"/><text x="40" y="53" fill="#fff" font-size="22">2</text><text x="88" y="48" fill="#152238" font-size="27" font-weight="700">8句话＋故事卡</text><text x="88" y="84" fill="#5b6d85" font-size="21">搭起完整因果链</text></g>
+    <g transform="translate(806 200)"><rect width="330" height="118" rx="20" fill="#fff" stroke="#b9c6d8"/><circle cx="47" cy="45" r="24" fill="#e56b4d"/><text x="40" y="53" fill="#fff" font-size="22">3</text><text x="88" y="48" fill="#152238" font-size="27" font-weight="700">核查并锁定</text><text x="88" y="84" fill="#5b6d85" font-size="21">核心五项需确认</text></g>
+    <g transform="translate(64 362)"><rect width="330" height="118" rx="20" fill="#fff" stroke="#b9c6d8"/><circle cx="47" cy="45" r="24" fill="#486ec9"/><text x="40" y="53" fill="#fff" font-size="22">4</text><text x="88" y="48" fill="#152238" font-size="27" font-weight="700">150秒七拍</text><text x="88" y="84" fill="#5b6d85" font-size="21">每20—30秒有新信息</text></g>
+    <g transform="translate(435 362)"><rect width="330" height="118" rx="20" fill="#fff" stroke="#b9c6d8"/><circle cx="47" cy="45" r="24" fill="#486ec9"/><text x="40" y="53" fill="#fff" font-size="22">5</text><text x="88" y="48" fill="#152238" font-size="27" font-weight="700">一致性设计</text><text x="88" y="84" fill="#5b6d85" font-size="21">锁定角色与场景锚点</text></g>
+    <g transform="translate(806 362)"><rect width="330" height="118" rx="20" fill="#fff" stroke="#b9c6d8"/><circle cx="47" cy="45" r="24" fill="#486ec9"/><text x="40" y="53" fill="#fff" font-size="22">6</text><text x="88" y="48" fill="#152238" font-size="27" font-weight="700">分镜＋验收</text><text x="88" y="84" fill="#5b6d85" font-size="21">八列输出，逐项核对</text></g>
+  </g>
+  <text x="64" y="560" fill="#39516f" font-size="25" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">已完成内容会标记“已完成”，从最早缺失步骤继续。</text>
+</svg>
