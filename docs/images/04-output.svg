@@ -15,5 +15,5 @@
     <text x="64" y="505" fill="#5f5047" font-size="24">✓ 阻碍逐次升级　✓ 英雄镜头后留10—15秒余味</text>
   </g>
   <rect x="64" y="545" width="1072" height="52" rx="16" fill="#2f6f65"/>
-  <text x="102" y="579" fill="#fff" font-size="23" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">同步飞书等外部文档：先获得明确授权，再用“原文＋修订建议＋最终稿”保留痕迹。</text>
+  <text x="102" y="579" fill="#fff" font-size="23" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">同步外部文档：先获得明确授权，再用“原文＋修订建议＋最终稿”保留痕迹。</text>
 </svg>

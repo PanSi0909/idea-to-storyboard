@@ -10,7 +10,6 @@
   <text x="118" y="334" fill="#152238" font-size="31" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">$idea-to-storyboard</text>
   <text x="118" y="386" fill="#39516f" font-size="28" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">把这个想法做成 150 秒短片分镜：</text>
   <text x="118" y="427" fill="#39516f" font-size="28" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">20年后，人类把情感关系交给 AI 代理。</text>
-  <text x="72" y="525" fill="#fff" font-size="30" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">也可粘贴故事卡、剧本、已有分镜或飞书链接</text>
+  <text x="72" y="525" fill="#fff" font-size="30" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">也可粘贴故事卡、剧本、已有分镜或外部文档链接</text>
   <text x="72" y="573" fill="#b8c8de" font-size="23" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">信息足够时连续完成；只追问真正改变故事方向的缺口。</text>
 </svg>
-
