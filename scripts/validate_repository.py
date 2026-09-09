@@ -81,10 +81,11 @@ def validate_archive() -> None:
 
 
 def validate_sensitive_data() -> None:
+    allowed_public_urls = {
+        "https://bytedance.larkoffice.com/wiki/YOEvwXEBriAPESkNcB4cSKxJn2c",
+        "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e",
+    }
     patterns = {
-        "private Feishu/Lark URL": re.compile(
-            r"https?://[^\s)\]>]*(?:feishu\.cn|larksuite\.com)/", re.IGNORECASE
-        ),
         "GitHub token": re.compile(r"gh[pousr]_[A-Za-z0-9_]{20,}"),
         "authorization bearer token": re.compile(
             r"authorization\s*:\s*bearer\s+[A-Za-z0-9._-]{16,}", re.IGNORECASE
@@ -101,9 +102,34 @@ def validate_sensitive_data() -> None:
         if path.suffix.lower() not in text_suffixes and path.name not in {"LICENSE"}:
             continue
         text = path.read_text(encoding="utf-8", errors="ignore")
+        if "\ufffd" in text:
+            fail(f"Unicode replacement character in {path.relative_to(ROOT)}")
+        for raw_url in re.findall(r"https?://[^\s)\]>]+", text):
+            url = raw_url.rstrip(".,;:!?，。；：！？")
+            is_lark_document = any(
+                host in url
+                for host in ("feishu.cn/", "larksuite.com/", "larkoffice.com/")
+            )
+            if is_lark_document and url not in allowed_public_urls:
+                fail(f"unapproved Feishu/Lark URL in {path.relative_to(ROOT)}")
         for label, pattern in patterns.items():
             if pattern.search(text):
                 fail(f"possible {label} in {path.relative_to(ROOT)}")
+
+
+def validate_markdown_links() -> None:
+    for path in ROOT.rglob("*.md"):
+        if ".git" in path.parts:
+            continue
+        text = path.read_text(encoding="utf-8")
+        for target in re.findall(r"\[[^\]]*\]\(([^)]+)\)", text):
+            if target.startswith(("http://", "https://", "#", "mailto:")):
+                continue
+            local_target = target.split("#", 1)[0]
+            if local_target and not (path.parent / local_target).resolve().exists():
+                fail(
+                    f"broken local link in {path.relative_to(ROOT)}: {local_target}"
+                )
 
 
 def main() -> None:
@@ -111,6 +137,7 @@ def main() -> None:
     validate_svgs()
     validate_archive()
     validate_sensitive_data()
+    validate_markdown_links()
     print("Repository validation passed.")
 
 
