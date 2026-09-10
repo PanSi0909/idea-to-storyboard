@@ -82,7 +82,7 @@ def validate_archive() -> None:
 
 def validate_sensitive_data() -> None:
     allowed_public_urls = {
-        "https://bytedance.larkoffice.com/wiki/YOE3wXEBriAPESkNcB4cSKxJn2c",
+        "https://bytedance.larkoffice.com/wiki/YOE3wLBAHiW74PkXRTpcKJlznQf",
         "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e",
     }
     patterns = {

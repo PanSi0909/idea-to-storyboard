@@ -2,7 +2,7 @@
 
 感谢以下课程、社区与创作者对本 Skill 方法整理的启发：
 
-- [抖音AI夜校](https://bytedance.larkoffice.com/wiki/YOE3wXEBriAPESkNcB4cSKxJn2c)
+- [抖音AI夜校](https://bytedance.larkoffice.com/wiki/YOE3wLBAHiW74PkXRTpcKJlznQf)
 - [WaytoAGI](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
 - [周鹏@鲤鱼与鱼ai](https://www.douyin.com/user/MS4wLjABAAAAZ5yA9sauF9ETKPvy1mdv4GgSN1ECOzdZeH2i8hKgVyk?from_tab_name=main)
 
